@@ -1,0 +1,6 @@
+how to view a diff from commits
+how to remove commitssee what was commited
+see what was commited
+remove staged files
+untrack particular files
+Changing commits.
